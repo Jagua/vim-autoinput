@@ -1,0 +1,32 @@
+*autoinput.txt*  autoinput
+
+Version: 0.1.0
+Author: Jagua
+License: MIT License
+
+
+
+==============================================================================
+INTRODUCTION                                          *autoinput-introduction*
+
+|autoinput| inputs characters automatically.
+
+
+Requirements:
+- Vim (+timers)
+
+Latest version:
+https://github.com/Jagua/vim-autoinput
+
+
+
+==============================================================================
+CHANGELOG                                                *autoinput-changelog*
+
+0.1.0   2018-04-19
+        - Initial version.
+
+
+
+==============================================================================
+vim:tw=78:ts=8:sw=2:ft=help:et:norl:fen:fdl=0:

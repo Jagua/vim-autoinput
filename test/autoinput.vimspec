@@ -1,0 +1,5 @@
+Describe autoinput
+  It requires Vim compiled with the +timers feature
+    Assert Equals(has('timers'), 1)
+  End
+End

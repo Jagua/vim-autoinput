@@ -1,0 +1,3 @@
+# vim-autoinput
+
+**vim-autoinput** is a Vim plugin.
